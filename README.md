@@ -1,3 +1,3 @@
 # canadian_languages
 
-Authors: Alice Le
+Authors: Alice Le & me
